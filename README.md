@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi!
+# 👋 Hey, I'm Davi
 
 Desenvolvedor em formação  
 Curioso por tecnologia, automação e soluções que realmente fazem diferença no dia a dia 
@@ -32,4 +32,4 @@ Me interesso por entender como as coisas funcionam por trás, desde a lógica do
 - Conceitos de IA
 
 
-Obrigado por passar por aqui!
+⭐ Obrigado por passar por aqui!
