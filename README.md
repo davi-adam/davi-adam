@@ -24,12 +24,13 @@ Me interesso por entender como as coisas funcionam por trás, desde a lógica do
 
 ---
 
-## 📈 Atualmente estudando
+## Atualmente estudando
 
 - Automação (RPA)  
 - Estruturação de sistemas  
 - AWS Cloud  
 - Conceitos de IA
+
 
 
 ⭐ Obrigado por passar por aqui!
