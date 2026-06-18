@@ -1,28 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Oi,%20eu%20sou%20o%20Davi!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20ADS%20·%20Tubarão,%20SC&descAlignY=58&descFontColor=ffffffcc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Oi,%20eu%20sou%20o%20Davi!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=ADS%20Student%20·%20Tubarão,%20SC&descAlignY=58&descFontColor=ffffffcc" />
 </div>
 
 <br/>
 
-Bem-vindo(a) ao meu GitHub. Me chamo Davi, tenho 20 anos e sou de Tubarão/SC. Atualmente estudo Análise e Desenvolvimento de Sistemas no Instituto Infnet. Gosto de aprender coisas novas sobre tecnologia e de ir atrás do que ainda não sei. Por aqui você vai encontrar projetos e tudo que vou construindo ao longo do caminho.
+## 👨‍💻 Sobre mim
 
-<br/>
+Sou o Davi, tenho 20 anos e sou de Tubarão/SC.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas no Instituto Infnet**, com foco em desenvolvimento de software, dados e tecnologias aplicadas.
+
+Tenho interesse em construir soluções práticas com tecnologia, especialmente envolvendo **Python, automação, dados e backend**. Estou em constante evolução, estudando e aplicando o que aprendo em projetos reais.
 
 ---
 
-## ⚙️ Ferramentas & Tecnologias
+## ⚙️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### 🌐 Web
+### 🌐 Desenvolvimento Web
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-### 🐍 Dados & Backend
+### 🐍 Backend & Dados
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 
-<br/>
-
-<!-- Pandas e SQL como badges extras -->
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -34,13 +34,13 @@ Bem-vindo(a) ao meu GitHub. Me chamo Davi, tenho 20 anos e sou de Tubarão/SC. A
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-orange?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/Automação-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ DevOps & Ferramentas
+### 🛠️ DevOps & Infraestrutura
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode&theme=dark" />
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados & BI
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-![Google Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 </div>
 
@@ -48,85 +48,79 @@ Bem-vindo(a) ao meu GitHub. Me chamo Davi, tenho 20 anos e sou de Tubarão/SC. A
 
 ## 🎓 Formação & Certificações
 
-| | Certificado | Instituição | Status |
-|---|---|---|---|
-| 🎓 | Análise e Desenvolvimento de Sistemas | Instituto Infnet | 🔄 Em curso |
-| ☁️ | DevOps & Cloud Nativa na AWS | Instituto Infnet | 🔄 Em curso |
-| 📊 | Data Science — SCTEC | SCTI + SENAI/SC | ✅ Concluído |
-| 🤖 | IA na Prática — SCTEC | SCTI + SENAI/SC | ✅ Concluído |
-
-> O **SCTEC** é um programa do Governo de Santa Catarina, via SCTI e SENAI/SC, voltado pra inovação e desenvolvimento tecnológico no estado.
+| Tipo | Formação | Instituição | Status |
+|------|----------|-------------|--------|
+| 🎓 | Análise e Desenvolvimento de Sistemas | Instituto Infnet | Em andamento |
+| ☁️ | DevOps & Cloud Nativa na AWS | Instituto Infnet | Em andamento |
+| 📊 | Data Science | SCTI + SENAI/SC | Concluído |
+| 🤖 | Inteligência Artificial Aplicada | SCTI + SENAI/SC | Concluído |
 
 ---
 
-## 📚 O que aprendi até aqui
+## 📚 Conhecimentos técnicos
 
 <details>
-<summary>🌐 Programação Web — HTML5, CSS3 e JavaScript</summary>
-<br/>
+<summary>🌐 Desenvolvimento Web</summary>
 
-- Estrutura semântica com HTML5, tipografia, multimídia e tabelas
-- Estilização com CSS3: Box Model, Flexbox, Grid e outros displays
-- JavaScript: variáveis, tipos, funções, loops, DOM, eventos, formulários, arrays, strings e debugging
+- HTML5 semântico e estruturação de páginas  
+- CSS3 (Flexbox, Grid, responsividade e box model)  
+- JavaScript (DOM, eventos, funções, arrays, manipulação de dados)
 
 </details>
 
 <details>
-<summary>🐍 Python</summary>
-<br/>
+<summary>🐍 Python & Engenharia de Dados</summary>
 
-- Fundamentos: variáveis, condicionais, listas, funções, strings, loops
-- Manipulação de dados com Pandas: CSV, JSON, Excel, SQL via SQLAlchemy
-- Web Scraping com BeautifulSoup e navegação em HTML
-- Tratamento de erros e exceções
+- Fundamentos da linguagem e programação estruturada  
+- Manipulação de dados com Pandas (CSV, JSON, Excel e SQL)  
+- Integração com bancos de dados via SQLAlchemy  
+- Web scraping com BeautifulSoup  
+- Tratamento de erros e automação de tarefas
 
 </details>
 
 <details>
 <summary>🗄️ Banco de Dados & SQL</summary>
-<br/>
 
-- Modelagem relacional, normalização, chaves primárias e relacionamentos complexos
-- Queries com SELECT, WHERE, ORDER BY, GROUP BY, JOINs e agregações
-- Atualização e manutenção de bases de dados
-- Introdução a NoSQL
-- Visualização com Google Looker Studio
-
-</details>
-
-<details>
-<summary>☁️ DevOps & Cloud — em andamento</summary>
-<br/>
-
-- Linux e linha de comando essencial
-- Versionamento com Git e GitHub
-- Containerização com Docker e Docker Compose
-- Fundamentos de Cloud Computing
-- CI/CD com GitHub Actions
-- Deploy automatizado na AWS
+- Modelagem relacional e normalização  
+- Consultas SQL (JOINs, filtros, agregações e subqueries)  
+- Manipulação e análise de dados  
+- Introdução a NoSQL  
+- Visualização de dados com Looker Studio
 
 </details>
 
 <details>
-<summary>🤖 IA & Data Science</summary>
-<br/>
+<summary>☁️ DevOps & Cloud</summary>
 
-- Fundamentos de Data Science: coleta, limpeza, transformação e visualização de dados
-- Machine Learning: regressão, classificação e avaliação de modelos
-- IA generativa: ChatGPT, Gemini e engenharia de prompts
-- Ferramentas de IA aplicadas: escrita, apresentações, transcrição, criação de vídeo
-- Ética, LGPD e governança responsável de IA
+- Linux e linha de comando  
+- Git e GitHub (versionamento de código)  
+- Docker e containerização  
+- Conceitos de Cloud Computing  
+- CI/CD com GitHub Actions  
+- Deploy básico em AWS
+
+</details>
+
+<details>
+<summary>🤖 Inteligência Artificial & Data Science</summary>
+
+- Pipeline de dados (coleta, limpeza e transformação)  
+- Machine Learning (regressão e classificação)  
+- IA generativa e engenharia de prompts  
+- Aplicações práticas com ferramentas de IA  
+- Ética e boas práticas no uso de IA
 
 </details>
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daviadam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviadam40@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/daviadam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:daviadam40L@gmail.com)
 
 </div>
 
