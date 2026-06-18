@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Oi,%20eu%20sou%20o%20Davi!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=ADS%20Student%20·%20Tubarão,%20SC&descAlignY=58&descFontColor=ffffffcc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Davi%20Adam%20-%20Estudante%20de%20Tecnologia%20(ADS)&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20•%20Dados%20•%20Automação&descAlignY=58&descFontColor=9CA3AF" />
 </div>
 
 <br/>
@@ -127,5 +127,5 @@ Tenho interesse em construir soluções práticas com tecnologia, especialmente 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
 </div>
