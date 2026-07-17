@@ -1,171 +1,74 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Davi%20Adam&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20•%20Python%20%26%20Java%20•%20Dados%20%26%20Automação&descAlignY=55&descFontColor=9CA3AF" />
-</div>
+<div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daviadam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviadam40L@gmail.com)
+<a href="https://linkedin.com/in/daviadam"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="mailto:daviadam40L@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="https://github.com/daviadam"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 
 </div>
 
 <br/>
 
-## 👨‍💻 Sobre mim
+Olá, me chamo **Davi Adam** e sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento backend** 🚀.
 
-Sou o Davi, estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Infnet, com foco em **desenvolvimento backend**.
+**Um pouco sobre mim:**
 
-Trabalho principalmente com **Python** e **Java**, construindo soluções práticas envolvendo APIs, automação, dados e integração com bancos de dados. Gosto de projetos que unem lógica de programação sólida com aplicações reais — de sistemas de backend a scripts de automação e análise de dados.
+- 🐍 Trabalho principalmente com **Python** e **Java**, construindo APIs, automações e integrações com bancos de dados;
+- 📊 Tenho interesse em dados, desde tratamento e análise até visualização em dashboards de BI;
+- ☁️ Estudo práticas de DevOps e Cloud (Docker, CI/CD, AWS) para entender todo o ciclo de vida de um software;
+- 🤖 Aplico ferramentas de IA generativa no dia a dia para acelerar aprendizado e produtividade;
+- 📌 Estou sempre evoluindo tecnicamente através de projetos autorais aplicando o que aprendo na prática;
 
-Estou em constante evolução técnica, aplicando o que aprendo em projetos autorais e explorando boas práticas de engenharia de software.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-### 🐍 Backend
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Frontend (fundamentos)
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-
-### 📊 Dados & BI
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/BI-Dashboards-1a73e8?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-### 🛠️ DevOps & Infraestrutura
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode&theme=dark" />
-
-</div>
-
----
-
-## 🤖 IA & Automação
-
-<div align="center">
-
-**Ferramentas de IA generativa**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Python para automação & IA**
-
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-orange?style=for-the-badge)
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Formação
-
-| Formação | Instituição | Status |
-|---|---|---|
-| 🎓 Análise e Desenvolvimento de Sistemas | Instituto Infnet | Em andamento |
-| ☁️ DevOps & Cloud Nativa na AWS | Instituto Infnet | Concluído |
-| 🤖 Inteligência Artificial Aplicada | SCTI + SENAI/SC | Concluído |
-
----
-
-## 📚 Conhecimentos técnicos
-
-<details>
-<summary><b>🐍 Python & Engenharia de Dados</b></summary>
 <br/>
 
-- Programação estruturada e orientada a objetos
-- Manipulação de dados com Pandas (CSV, JSON, Excel e SQL)
-- Integração com bancos de dados via SQLAlchemy
-- Desenvolvimento de APIs com Flask
-- Web scraping com BeautifulSoup
-- Tratamento de erros e automação de tarefas
+### Backend
 
-</details>
+<img src="https://skillicons.dev/icons?i=python,java,flask,sqlalchemy" />
 
-<details>
-<summary><b>☕ Java</b></summary>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+### Dados & BI
+
+<img src="https://skillicons.dev/icons?i=pandas,sklearn" /> &nbsp; <img height="48" src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
+
+### IA & Automação
+
+<img height="48" src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<br/>
+<img height="48" src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-orange?style=flat-square" />&nbsp;<img height="48" src="https://img.shields.io/badge/Requests-000000?style=flat-square&logo=python&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+
 <br/>
 
-- Fundamentos da linguagem e programação orientada a objetos
-- Estruturas de dados e lógica de programação
-- Boas práticas de organização de código
+### Formação
 
-</details>
+- 🎓 Análise e Desenvolvimento de Sistemas — Instituto Infnet *(em andamento)*
+- ☁️ DevOps & Cloud Nativa na AWS — Instituto Infnet *(concluído)*
+- 🤖 Inteligência Artificial Aplicada — SCTI + SENAI/SC *(concluído)*
 
-<details>
-<summary><b>🌐 Desenvolvimento Web</b></summary>
+### Conhecimentos técnicos
+
+- **Python & Engenharia de Dados** — programação orientada a objetos, Pandas, SQLAlchemy, APIs com Flask, web scraping, automação de tarefas
+- **Java** — fundamentos da linguagem, POO, estruturas de dados
+- **Desenvolvimento Web** — HTML5, CSS3, JavaScript
+- **Banco de Dados & SQL** — modelagem relacional, SQLite, PostgreSQL, MySQL, consultas avançadas, noções de NoSQL
+- **DevOps & Cloud** — Linux, Git/GitHub, Docker, CI/CD, deploy básico em AWS
+- **IA & Data Science** — pipeline de dados, machine learning, engenharia de prompts, IA generativa
+
 <br/>
 
-- HTML5 semântico e estruturação de páginas
-- CSS3 (Flexbox, Grid, responsividade e box model)
-- JavaScript (DOM, eventos, funções, arrays, manipulação de dados)
+<div>
 
-</details>
+<a href="https://linkedin.com/in/daviadam"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
+<a href="mailto:daviadam40L@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
+<a href="https://github.com/daviadam"><img src="https://skillicons.dev/icons?i=github" width="35" /></a>
 
-<details>
-<summary><b>🗄️ Banco de Dados & SQL</b></summary>
-<br/>
-
-- Modelagem relacional e normalização
-- Consultas SQL (JOINs, filtros, agregações e subqueries)
-- Trabalho com SQLite, PostgreSQL e MySQL
-- Manipulação e análise de dados
-- Introdução a NoSQL
-- Visualização de dados e dashboards com Looker Studio
-
-</details>
-
-<details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br/>
-
-- Linux e linha de comando
-- Git e GitHub (versionamento de código)
-- Docker e containerização
-- Conceitos de Cloud Computing
-- CI/CD com GitHub Actions
-- Deploy básico em AWS
-
-</details>
-
-<details>
-<summary><b>🤖 Inteligência Artificial & Data Science</b></summary>
-<br/>
-
-- Pipeline de dados (coleta, limpeza e transformação)
-- Machine Learning (regressão e classificação)
-- IA generativa e engenharia de prompts
-- Aplicações práticas com ferramentas de IA
-- Ética e boas práticas no uso de IA
-
-</details>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daviadam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviadam40L@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
 </div>
