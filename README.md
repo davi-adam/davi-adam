@@ -7,7 +7,6 @@ Olá, me chamo **Davi Adam** e sou estudante de **Análise e Desenvolvimento de 
 - ☁️ Estudo práticas de DevOps e Cloud (Docker, CI/CD, AWS) para entender todo o ciclo de vida de um software;
 - 🤖 Aplico ferramentas de IA generativa no dia a dia para acelerar aprendizado e produtividade;
 - 📌 Estou sempre evoluindo tecnicamente através de projetos autorais, aplicando o que aprendo na prática;
-- 💬 Pode me chamar para conversar sobre tecnologia, projetos ou oportunidades — envie um email para [daviadam40L@gmail.com](mailto:daviadam40L@gmail.com).
 
 ---
 
@@ -43,7 +42,7 @@ Olá, me chamo **Davi Adam** e sou estudante de **Análise e Desenvolvimento de 
 <div align="center">
 
 <a href="https://linkedin.com/in/daviadam"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
-<a href="mailto:daviadam40L@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
+<a href="mailto:daviadam40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
 <a href="https://github.com/davi-adam"><img src="https://skillicons.dev/icons?i=github" width="35" /></a>
 
 </div>
